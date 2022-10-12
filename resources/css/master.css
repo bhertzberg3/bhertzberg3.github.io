@@ -1,0 +1,29 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rebeccapurple;
+}
+
+table {
+    border: 2px solid;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: plum;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+
+}
